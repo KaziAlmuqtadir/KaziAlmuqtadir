@@ -35,7 +35,7 @@ I am a researcher and developer specializing in geospatial science, environmenta
 ### 🛳 Your ticket ID for this visit
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/KaziAlmuqtadir/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=KaziAlmuqtadir&color=0077B5&style=flat" alt="Visitor Count" height="22" />
 </p>
 
 <!---
