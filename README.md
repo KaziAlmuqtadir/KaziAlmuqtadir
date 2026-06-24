@@ -4,14 +4,17 @@ I am a researcher and developer specializing in geospatial science, environmenta
 
 ---
 
+[![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaziAlmuqtadir&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GEE" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google&logoColor=white" alt="GEE" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -20,10 +23,10 @@ I am a researcher and developer specializing in geospatial science, environmenta
 
 <p align="left">
   <a href="https://linkedin.com/in/KaziAlmuqtadir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abirrzssust@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
