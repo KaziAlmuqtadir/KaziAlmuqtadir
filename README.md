@@ -5,6 +5,8 @@ I am a researcher and developer specializing in geospatial science, environmenta
 ---
 
 <!-- # ([![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaziAlmuqtadir&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)) -->
+[![Abir's GitHub Stats](https://github-stats-extended.vercel.app/api?username=KaziAlmuqtadir)](https://github.com/stats-organization/github-stats-extended)
+
 
 ### 🛠 Tech Stack
 
